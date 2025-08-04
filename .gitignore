@@ -23,3 +23,6 @@ venv/
 # Логи
 *.log
 logs/
+
+# Файл данных
+data/crops.csv
