@@ -42,7 +42,7 @@ You can use manual download via link https://drive.google.com/file/d/1T1wWJsuI6h
 OR
 using gdown
 ```bash
-pip instll gdown
+pip install gdown
 gdown 1T1wWJsuI6hGSgAdxfaIp1O7BfoewVc-l -O crops.csv
 ```
 
