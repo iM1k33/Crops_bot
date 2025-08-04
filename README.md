@@ -37,6 +37,16 @@ TELEGRAM_TOKEN = "your_telegram_bot_token"
 ```bash
 python run.py
 ```
+3. Download crops.csv to /data
+You can use manual download via link https://drive.google.com/file/d/1T1wWJsuI6hGSgAdxfaIp1O7BfoewVc-l
+OR
+using gdown
+```bash
+pip instll gdown
+gdown 1T1wWJsuI6hGSgAdxfaIp1O7BfoewVc-l -O crops.csv
+```
+
+
 ## 🎮 Usage
 - `/start` - Start the bot
 - `/help` - Show help information
@@ -46,7 +56,7 @@ python run.py
 ```
 Crops_bot/
 ├── data/
-│   └── crops.csv
+│   └── crops.csv *excluded from repo, link provided
 ├── crops_bot/
 │   ├── __init__.py
 │   ├── api.py
