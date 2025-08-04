@@ -1,6 +1,7 @@
 # Sunrise Crops Wiki Bot 🌾🌽🍋  
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://python.org)
 [![aiogram](https://img.shields.io/badge/aiogram-3.x-blue.svg)](https://aiogram.dev)
+[![OpenAI](https://a11ybadges.com/badge?logo=openai)](https://openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 Telegram bot for agricultural crop information based on Wikipedia data.
 ## 🌟 Features
