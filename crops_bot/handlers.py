@@ -23,7 +23,8 @@ async def start_command(message: Message):
 async def help_command(message: Message):
     help_text = (
         "❔*Sunrise Crops Wiki Bot Help*\n\n"
-        "I'm an agricultural crop expert powered by Wikipedia knowledge.\n\n"
+        "I'm an agricultural crop expert powered by Wikipedia knowledge.\n"
+        "Knowledge base includes 3111 sections of 366 articles.\n\n"
         "*Available commands:*\n"
         "/start - Start the bot\n"
         "/help - Show this help message\n"
