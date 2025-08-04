@@ -25,4 +25,5 @@ venv/
 logs/
 
 # Файл данных
-data/
+data/*
+!data/.gitkeep
