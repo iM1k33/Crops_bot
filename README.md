@@ -34,10 +34,6 @@ cp crops_bot/api_example.py crops_bot/api.py
 OPENAI_API_KEY = "your_openai_api_key"
 TELEGRAM_TOKEN = "your_telegram_bot_token"
 ```
-### Runing the bot
-```bash
-python run.py
-```
 3. Download crops.csv to /data
 You can use manual download via link https://drive.google.com/file/d/1T1wWJsuI6hGSgAdxfaIp1O7BfoewVc-l
 OR
@@ -46,7 +42,10 @@ using gdown
 pip install gdown
 gdown 1T1wWJsuI6hGSgAdxfaIp1O7BfoewVc-l -O crops.csv
 ```
-
+### Runing the bot
+```bash
+python run.py
+```
 
 ## 🎮 Usage
 - `/start` - Start the bot
